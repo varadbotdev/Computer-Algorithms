@@ -22,8 +22,8 @@ This repository contains interactive, self-contained lab practicals for the *Com
 | 1 | 🔗 [Quick Sort + gprof](practicals/quick-sort/) | Sorting algorithm with performance profiling using GNU profiler |
 | 2 | 🔗 [K-Means Clustering](practicals/kmeans/) | Unsupervised clustering with convergence and centroid updates |
 | 3 | 🔗 [Vector Quantization](practicals/vq/) | Signal compression using codebooks |
-| 4 | 🔗 [MPI Arithmetic](practicals/mpi/) | Distributed computation with master-worker model |
-| 5 | 🔗 [Eigenvalues & Eigenvectors](practicals/eigen-vector/) | Power iteration for dominant eigenpair |
+| 4 | 🔗 [MPI Arithmetic](practicals/mpi/) | Distributed computation with master slave model |
+| 5 | 🔗 [Eigenvalues & Eigenvectors](practicals/eigen-vector/) | How they works and for what |
 | 6 | 🔗 [SageMath Basics](practicals/sage-math/) | Symbolic math and function plotting |
 | 7 | 🔗 [Arbitrage (SageMath)](practicals/arbitrage-sage/) | Detect profitable cycles using graph theory in SageMath |
 | 8 | 🔗 [Nesting Boxes](practicals/nesting-boxes/) | DP solution + SageMath visualization of longest nesting chain |
