@@ -1,7 +1,7 @@
 
 # What is Quick Sort?
 
-Quick Sort splits data using a chosen pivot, putting lower values on one side, higher ones on the other. It breaks down big lists into smaller chunks through repeated division. Each step focuses on rearranging items based on their size compared to the middle point. This process repeats until everything’s in place. Instead of tackling the whole set at once, it handles pieces separately. Sorting happens faster since each section gets processed individually.
+Quick Sort splits data using a chosen pivot, putting lower values on one side, higher ones on the other. It breaks down big lists into smaller chunks through repeated division. Each step focuses on rearranging items based on their size compared to the middle point. This process repeats until everything’s in place. Instead of tackling the whole set at once, it handles pieces separately. Sorting happens faster since each section gets processed individually. The positioning will be carried out with the help of Hoare's mathod of paritioning.
 
 # How does it work?
 
