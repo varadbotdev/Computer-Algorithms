@@ -19,7 +19,7 @@ This repository contains interactive, self-contained lab practicals for the *Com
 
 | # | Practical | Description |
 |---|----------|-------------|
-| 1 | 🔗 [Quick Sort + gprof](practicals/QuickSort/) | Sorting algorithm with performance profiling using GNU profiler |
+| 1 | 🔗 [Quick Sort + gprof](practicals/1.QuickSort/) | Sorting algorithm with performance profiling using GNU profiler |
 | 2 | 🔗 [K-Means Clustering](practicals/kmeans/) | Unsupervised clustering with convergence and centroid updates |
 | 3 | 🔗 [Vector Quantization](practicals/vq/) | Signal compression using codebooks |
 | 4 | 🔗 [MPI Arithmetic](practicals/mpi/) | Distributed computation with master slave model |
